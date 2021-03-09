@@ -12,7 +12,7 @@ demo: https://eshop-olivia.herokuapp.com/
 - admin user email: admin@example.com; password:123456
 - paypal sandbox Email ID:sb-ggwnw5328877@personal.example.com password:XU7Dwx-U
 
-Utilized  NodeJS  for back end  server
-Employed  React, Redux, Thunk,Bootstrap for front end
-Used MongoDB, Mongoose for database
-Setup Gtihub Action for CI/CD.
+1. Utilized  NodeJS  for back end  server
+2. Employed  React, Redux, Thunk,Bootstrap for front end
+3. Used MongoDB, Mongoose for database
+4. Setup Gtihub Action for CI/CD.
