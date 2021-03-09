@@ -1,5 +1,5 @@
 FROM node:14
 WORKDIR /
 COPY . .
-RUN npm heroku-postbuild
+RUN npm run heroku-postbuild
 CMD [ "npm", "start" ]
