@@ -3,4 +3,3 @@ WORKDIR /
 COPY . .
 RUN npm heroku-postbuild
 CMD [ "npm", "start" ]
-ß
